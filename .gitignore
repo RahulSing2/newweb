@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/newweb/.vs/newweb/v16
+/newweb/newweb/obj/Debug/netcoreapp3.1
+/newweb/newweb/obj
